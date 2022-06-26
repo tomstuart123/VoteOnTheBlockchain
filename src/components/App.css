@@ -1,0 +1,43 @@
+/* Styles go here */
+.candidateContainer {
+    padding: 15px;
+}
+
+.formContainer {
+    padding: 15px;
+}
+
+.form {
+    width: 80%;
+}
+
+h2 {
+    padding-bottom: 10px;
+}
+
+.candidateCard {
+    padding-top: 10px;
+}
+
+.disclaimer {
+    color: grey;
+    font-size: 9px;
+}
+
+.navigation {
+    background-color : rgb(91, 91, 109);
+    height: auto;
+    padding: 1%;
+
+    padding-top : 10px;
+    padding-bottom: 10px;
+    
+    grid-auto-rows:auto;
+
+}
+
+.navLink {
+    color: white;
+    font-size: 25px;
+}
+
